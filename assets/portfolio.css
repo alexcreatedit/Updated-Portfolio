@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  font-family: 'DotGothic16', sans-serif;
+}
+
+
+.carousel {
+  margin: auto;
+}
+
+.carousel .carousel-item {
+  height: 300px;
+}
+
+.carousel-item img {
+  position: absolute;
+  object-fit: fill;
+  top: 0;
+  left: 0;
+  min-height: 300px;
+}
+
+/* Color of the links BEFORE scroll */
+.nav-link {
+  color: rgb(0, 0, 0)!important;
+  }
+
+/* Color of the links AFTER scroll */
+.nav-link .nav-item a:hover {
+  color: red;
+}
+/* .nav-link a:hover {  */
+  /* color: rgb(248, 43, 43) !important; 
+} */
+/* Color of the navbar AFTER scroll */
+.navbar-scrolled {
+  background-color: rgb(0, 0, 0);
+}
+
+/* An optional height of the navbar AFTER scroll */
+.navbar.navbar-scroll.navbar-scrolled {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+
+/* Smaller than standard 960 (devices and browsers) */
+@media only screen and (max-width: 959px) {}
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media only screen and (min-width: 768px) and (max-width: 959px) {}
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {}
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {}
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {}
