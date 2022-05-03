@@ -25,13 +25,6 @@ body {
   color: rgb(0, 0, 0)!important;
   }
 
-/* Color of the links AFTER scroll */
-.nav-link .nav-item a:hover {
-  color: red;
-}
-/* .nav-link a:hover {  */
-  /* color: rgb(248, 43, 43) !important; 
-} */
 /* Color of the navbar AFTER scroll */
 .navbar-scrolled {
   background-color: rgb(0, 0, 0);
@@ -41,6 +34,10 @@ body {
 .navbar.navbar-scroll.navbar-scrolled {
   padding-top: 5px;
   padding-bottom: 5px;
+}
+
+.navbar-toggler{
+  background-color: rgb(0, 0, 0)!important;
 }
 
 
