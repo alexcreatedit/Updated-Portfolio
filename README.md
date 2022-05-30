@@ -1,6 +1,6 @@
   # Updated-Portfolio
 
-  (https://alexcreatedit.github.io/Updated-Portfolio/) Profile Generator
+  (https://alexcreatedit.github.io/Updated-Portfolio) Updated Portfolio 2
 
  # Description 
   When a person comes to my updated portfolio, the initial landingpage will consist of a minimalist type design. 
