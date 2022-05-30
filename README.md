@@ -3,8 +3,8 @@
   (https://alexcreatedit.github.io/Updated-Portfolio) Updated Portfolio 2
 
  # Description 
-  When a person comes to my updated portfolio, the initial landingpage will consist of a minimalist type design. 
-  My NAV bar consist of my LinkedIn, GitHub portfolio and a way to Email me.
+  When a person comes to my updated portfolio, the initial landing page will consist of a minimalist type design. 
+  My nav bar consist of my LinkedIn, GitHub portfolio, Resume and a way to Email me.
   You will find a carousel, that takes you to three of my most recent projects. 
   Each page will show images of my work on deployed github pages. 
   The pages also have clickable links where you can find my github links and deployed pages.
