@@ -18,15 +18,17 @@ body {
   left: 0;
   min-height: 300px;
 }
-
-/* Color of the links BEFORE scroll */
 .nav-link {
   color: rgb(0, 0, 0) !important;
 }
 
+.navbar-dark .navbar-toggler-icon {
+  background-color: black;
+}
+
 /* Color of the navbar AFTER scroll */
 .navbar-scrolled {
-  background-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
 }
 
 /* An optional height of the navbar AFTER scroll */
@@ -35,6 +37,9 @@ body {
   padding-bottom: 5px;
 }
 
+.btn .btn-secondary .dropdown-toggle{
+  background: white;
+}
 
 /* Smaller than standard 960 (devices and browsers) */
 @media only screen and (max-width: 959px) {
@@ -46,6 +51,7 @@ body {
 
 /* All Mobile Sizes (devices and browser) */
 @media only screen and (max-width: 767px) {
+
 }
 
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
