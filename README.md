@@ -13,17 +13,14 @@
   * [Usage](#usage)
   * [Liscense](#liscense)
   * [Constributing](#contributing)
-  * [Tests](#tests)
   * [Questions](#questions)
   # Usage
-  The usage of this application is to help create and manage work teams.
+  The usage of this application is to help share my work and to give people the oppurtunity to contact me.
   # Liscense
   The Liscense used for the project is The MIT liscense.
   ![Github liscense](http://img.shields.io/badge/liscense-MIT-blue-svg)
   # Contributing
-  Contributors to the project include: Google
-  # Tests
-  The following command is required to test run the project: node app.js
+  Contributors to the project include: Google, W3Schools and Bootstrap Docs
   # Questions
   If you have any questions about the project contact via email at alexdiclothingco@icloud.com
 
